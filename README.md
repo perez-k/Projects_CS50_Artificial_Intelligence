@@ -1,5 +1,5 @@
 # Projects_CS50_Artificial_Intelligence
-Projects in **Python**
+Projects in **Python** \
 **CS50AI 2020 PSets solutions - (HarvardX, Completed in Fall 2020)**
 
 

@@ -21,23 +21,24 @@ Website with Flask and JavaScript (Web)
 0. Search \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/0/), [Files](https://cs50.harvard.edu/ai/2020/weeks/0/) \
 Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
+Uninformed search (Depth-First Search, Breadth-First Search) -  Informed search (Greedy Best-First Search [use heuristic function], A* Search [use heuristic and cost estimation]) - Adversarial search (Minimax, Alpha-Beta Pruning, Depth-Limited Minimax)
 
-1. Knowledge \
+2. Knowledge \
 Representing information and drawing inferences from it.
 
-2. Uncertainty \
+3. Uncertainty \
 Dealing with uncertain events using probability.
 
-3. Optimization \
+4. Optimization \
 Finding not only a correct way to solve a problem, but a better—or the best—way to solve it.
 
-4. Learning \
+5. Learning \
 Improving performance based on access to data and experience. For example, your email is able to distinguish spam from non-spam mail based on past experience.
 
-5. Neural Networks \
+6. Neural Networks \
 A program structure inspired by the human brain that is able to perform tasks effectively.
 
-6. Language \
+7. Language \
 Processing natural language, which is produced and understood by humans.
 
 

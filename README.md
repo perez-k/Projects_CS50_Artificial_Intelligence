@@ -20,7 +20,7 @@ Website with Flask and JavaScript (Web)
 
 0. Search \
 [Lecture notes](https://cs50.harvard.edu/ai/2020/notes/0/), [Files](https://cs50.harvard.edu/ai/2020/weeks/0/) \
-Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
+Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move. \
 Uninformed search (Depth-First Search, Breadth-First Search) -  Informed search (Greedy Best-First Search [use heuristic function], A* Search [use heuristic and cost estimation]) - Adversarial search (Minimax, Alpha-Beta Pruning, Depth-Limited Minimax)
 
 2. Knowledge \

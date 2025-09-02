@@ -19,7 +19,7 @@ Website with Flask and JavaScript (Web)
 📚 Topics Covered include:
 
 0. Search \
-[Files](https://cs50.harvard.edu/ai/2020/weeks/0/), [lecture notes](https://cs50.harvard.edu/ai/2020/notes/0/)
+[lecture notes](https://cs50.harvard.edu/ai/2020/notes/0/), [Files](https://cs50.harvard.edu/ai/2020/weeks/0/) \
 Finding a solution to a problem, like a navigator app that finds the best route from your origin to the destination, or like playing a game and figuring out the next move.
 
 1. Knowledge \

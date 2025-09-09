@@ -25,7 +25,7 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 ### **Example Output**
 
-<video src="/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
+<video src="images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
 
 ```
 [![Watch the video](/images/Certificat_CS50AI.png)](/images/Video_Demo/cs50ai_p0a_degrees.mp4)

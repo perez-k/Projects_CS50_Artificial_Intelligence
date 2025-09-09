@@ -27,6 +27,7 @@ Finding a solution to a problem, like a navigator app that finds the best route 
 Uninformed search (Depth-First Search, Breadth-First Search) -  Informed search (Greedy Best-First Search [use heuristic function], A* Search [use heuristic and cost estimation]) - Adversarial search (Minimax, Alpha-Beta Pruning, Depth-Limited Minimax)
 
 2. Knowledge \
+[Lecture notes](https://cs50.harvard.edu/ai/2020/notes/1/), [Files](https://cs50.harvard.edu/ai/2020/weeks/1/) \
 Representing information and drawing inferences from it.
 
 3. Uncertainty \

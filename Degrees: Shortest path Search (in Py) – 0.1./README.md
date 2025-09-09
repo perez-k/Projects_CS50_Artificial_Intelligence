@@ -25,7 +25,7 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 ### **Example Output**
 
-![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/tree/main/images/Certificat_CS50AI.png)
+![Watch the video](/images/Certificat_CS50AI.png)
 
 ```
 

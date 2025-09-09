@@ -27,13 +27,13 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 <video src="images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
 
-```
-[![Watch the video](/images/Certificat_CS50AI.png)](/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
-
 
 
 https://github.com/user-attachments/assets/e296b38d-85c7-4aaf-925d-7f88869334ab
+
+```
+[![Watch the video](/images/Certificat_CS50AI.png)](/images/Video_Demo/cs50ai_p0a_degrees.mp4)
+
 
 
 
@@ -58,6 +58,7 @@ https://github.com/user-attachments/assets/e296b38d-85c7-4aaf-925d-7f88869334ab
 <video src="assets/demo.mp4" controls width="600"></video>
 
 ---
+
 
 
 

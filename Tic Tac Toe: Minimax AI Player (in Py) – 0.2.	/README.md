@@ -20,5 +20,10 @@ The game can be played in the terminal or via a graphical interface, for interac
 
 ## **Example Output**
 
+Video:
+
+https://github.com/user-attachments/assets/de37c6cb-63de-4158-84a0-b523a6d1a5f4
+
+
 
 

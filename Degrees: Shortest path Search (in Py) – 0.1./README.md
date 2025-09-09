@@ -27,7 +27,7 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 
 
-
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
 
 ---
 

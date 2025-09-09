@@ -25,39 +25,21 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 ### **Example Output**
 
-<video src="images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
-
-
-
 https://github.com/user-attachments/assets/e296b38d-85c7-4aaf-925d-7f88869334ab
 
 ```
-[![Watch the video](/images/Certificat_CS50AI.png)](/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
-
-
-
-
-<video src="https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
-
-![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
-[![Watch the video](https://raw.githubusercontent.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/images/Certificat_CS50AI.png)](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
-[![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/tree/main/images/Certificat_CS50AI.png)](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
-<p align="center">
-  <img src="assets/logo.png" width="200" alt="Logo">
-</p>
-
-<details>
-  <summary>Click to expand</summary>
-  <p>This text is hidden until clicked.</p>
-</details>
-
-<video src="assets/demo.mp4" controls width="600"></video>
-
+$ python degrees.py large
+Loading data...
+Data loaded.
+Name: Mandy Patinkin
+Name: Tom Cruise
+4 degrees of separation.
+1: Mandy Patinkin and Robin Wright starred in The Princess Bride
+2: Robin Wright and Gary Sinise starred in Forrest Gump
+3: Gary Sinise and Kevin Bacon starred in Apollo 13
+4: Kevin Bacon and Tom Cruise starred in A Few Good Men
 ---
+
 
 
 

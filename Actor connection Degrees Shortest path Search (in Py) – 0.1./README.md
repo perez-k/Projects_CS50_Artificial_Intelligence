@@ -5,9 +5,9 @@
 ---
 
 ## Description  
-A Python program that determines the shortest path between two actors by linking them through the movies they have appeared in together.  
-Uses data from the IMDb database (provided in CSV format) and models the problem as a graph, where actors are connected via shared movies.
-It is a search problem where the **states** are people, the **actions** are movies, which take us from one actor to another. Our initial state and goal state are defined by the two people we’re trying to connect. By using **breadth-first search**, we can find the shortest path from one actor to another.
+A Python program that determines the shortest path between two actors by linking them through the movies they have appeared in together.  \
+Uses data from the IMDb database (provided in CSV format) and models the problem as a graph, where actors are connected via shared movies. \
+It is a search problem where the **states** are people, the **actions** are movies, which take us from one actor to another. Our initial state and goal state are defined by the two people we’re trying to connect. By using **breadth-first search**, we can find the shortest path from one actor to another. \
 The output is the smallest number of connections, "degrees of separation" between the two chosen actors.
 
 

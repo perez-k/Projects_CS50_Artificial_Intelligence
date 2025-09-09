@@ -7,6 +7,7 @@ Projects in **Python** \
 This repository contains my [HarvardX's CS50AI 2020](https://cs50.harvard.edu/ai/2020/) programming projects. 
 
 ## Contents
+- `Search Problems`: [Mario Pyramid generator (in Python)](/Degrees:%20Shortest%20path%20Search%20(in%20Py)%20–%200.1./); [Cash Coin change (in Python)](/%20Tic%20Tac%20Toe:%20Minimax%20AI%20Player%20(in%20Py)%20–%200.2.	/); [Readability Level estimator (in Python)](/%20%20%20Readability%20Level%20estimator%20(in%20Python)%20–%20%206.4./); 
 <!--
 - `pset6`: [Mario Pyramid generator (in Python)](/%20Mario%20Pyramid%20generator%20(in%20Python)%20–%206.2./); [Cash Coin change (in Python)](/%20%20Cash%20Coin%20change%20(in%20Python)%20–%20%206.3./); [Readability Level estimator (in Python)](/%20%20%20Readability%20Level%20estimator%20(in%20Python)%20–%20%206.4./); [DNA Profiling (in Python)](/%20%20%20%20DNA%20Profiling%20(in%20Python)%20–%206.5./)
 - `pset7`: [Movie Database querying (in SQL)](/%20%20%20%20%20Movie%20Database%20querying%20(in%20SQL)%20–%207.1./); [Hogwarts House queries (in Py and SQL)](/%20%20%20%20%20%20Hogwarts%20House%20queries%20(in%20Py%20and%20SQL)%20–%207.2./)

@@ -33,6 +33,10 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 
 
+https://github.com/user-attachments/assets/e296b38d-85c7-4aaf-925d-7f88869334ab
+
+
+
 
 <video src="https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
 
@@ -54,5 +58,6 @@ The output is the smallest number of connections, "degrees of separation" betwee
 <video src="assets/demo.mp4" controls width="600"></video>
 
 ---
+
 
 

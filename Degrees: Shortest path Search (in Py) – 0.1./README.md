@@ -27,6 +27,9 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 [![Watch the video](/images/Certificat_CS50AI.png)](/images/Video_Demo/cs50ai_p0a_degrees.mp4)
 
+<video src="/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
+
+
 ```
 
 <video src="https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>

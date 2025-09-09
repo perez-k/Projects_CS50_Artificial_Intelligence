@@ -10,7 +10,7 @@ The game can be played in the terminal or via a graphical interface, for interac
 
 ---
 
-## **Key CS/AI Concepts**
+## Key CS/AI Concepts
 - **Game theory modeling** – representing Tic Tac Toe as a two-player, zero-sum game.  
 - **Minimax algorithm** – recursively exploring all possible future moves, building a game tree to select the optimal one.  
 - **Recursion and backtracking** – traversing the game tree for decision-making.  

@@ -25,7 +25,7 @@ Video:
 https://github.com/user-attachments/assets/de37c6cb-63de-4158-84a0-b523a6d1a5f4
 
 
-Images sample: \
+Images sample:
 
 <img width="614" height="459" alt="image" src="https://github.com/user-attachments/assets/5b6d6280-0a4f-4e67-9611-7b0946c423c3" />
 

@@ -1,6 +1,6 @@
 
 # Degrees – CS50 AI (Search)
-- Actor Connection Shortest Path Search 
+- Actor Connection Degrees: Shortest Path Search 
 
 ---
 

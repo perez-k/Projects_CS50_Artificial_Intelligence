@@ -25,6 +25,10 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 ### **Example Output**
 
+![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/tree/main/images/Certificat_CS50AI.png)
+
+```
+
 <video src="https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/blob/main/images/Video_Demo/cs50ai_p0a_degrees.mp4" controls width="600"></video>
 
 ![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
@@ -32,7 +36,6 @@ The output is the smallest number of connections, "degrees of separation" betwee
 [![Watch the video](https://raw.githubusercontent.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/images/Certificat_CS50AI.png)](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
 
 [![Watch the video](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/tree/main/images/Certificat_CS50AI.png)](https://github.com/AI-Health-Master/Projects_CS50_Artificial_Intelligence/raw/refs/heads/main/images/Video_Demo/cs50ai_p0a_degrees.mp4)
-
 
 <p align="center">
   <img src="assets/logo.png" width="200" alt="Logo">

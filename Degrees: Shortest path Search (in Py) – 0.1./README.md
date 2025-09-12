@@ -25,7 +25,7 @@ The output is the smallest number of connections, "degrees of separation" betwee
 
 ### **Example Output**
 
-Video:
+My Video:
 
 https://github.com/user-attachments/assets/e296b38d-85c7-4aaf-925d-7f88869334ab
 
@@ -42,6 +42,7 @@ Name: Tom Cruise
 3: Gary Sinise and Kevin Bacon starred in Apollo 13
 4: Kevin Bacon and Tom Cruise starred in A Few Good Men
 ---
+
 
 
 

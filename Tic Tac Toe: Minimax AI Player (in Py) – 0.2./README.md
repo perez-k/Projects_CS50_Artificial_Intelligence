@@ -20,7 +20,7 @@ The game can be played in the terminal or via a graphical interface, for interac
 
 ## **Example Output**
 
-Video:
+My Video:
 
 https://github.com/user-attachments/assets/de37c6cb-63de-4158-84a0-b523a6d1a5f4
 
@@ -32,6 +32,7 @@ Images sample:
 <img width="611" height="454" alt="image" src="https://github.com/user-attachments/assets/d48fb374-b327-4a60-b496-0a67bb1d266d" />
 
 <img width="609" height="448" alt="image" src="https://github.com/user-attachments/assets/1ddbec8f-0e53-49f6-a050-b86e3efc3d26" />
+
 
 
 
